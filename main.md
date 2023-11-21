@@ -89,6 +89,7 @@ includes-before-document: |
 
 lang: cs-CZ
 pagestyle: empty
+plot-configuration: plot-config.yaml
 
 fontsize: 12pt
 geometry:
