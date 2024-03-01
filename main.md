@@ -4,7 +4,7 @@ author: ""
 # open bookmarks tab
 bookmarksopen: true
 # bookmarks tab expand level
-bookmarkopenlevel: 1
+bookmarkopenlevel: 6
 pdfcreator: LaTeX via pandoc, made with care and extra sugar on top
 title-meta: ""
 keywords: []
