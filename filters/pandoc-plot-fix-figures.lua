@@ -10,6 +10,11 @@ function Figure(element)
         table.insert(element.content[1].content[1].attributes, val)
     end
 
+    -- if caption is empty convert to plain image
+    if #element.caption.long == 0 then
+        return element.content
+    end
+
     -- return modified element
     return element
 end
