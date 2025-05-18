@@ -67,6 +67,21 @@ header-includes: |
     % put footnotes at the bottom of the page
     % and number the from one on each page
     \usepackage[bottom,perpage]{footmisc}
+
+    % fix 4th and 5th level headings
+    \usepackage{titlesec}
+    \titlespacing*{\paragraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
+    \titleformat{\paragraph}[hang]
+        {\normalfont\normalsize\bfseries}
+        {\theparagraph}
+        {1em}
+        {}
+    \titlespacing*{\subparagraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
+    \titleformat{\subparagraph}[hang]
+        {\normalfont\normalsize\bfseries}
+        {\thesubparagraph}
+        {1em}
+        {}
     ```
 
 includes-before-document: |
