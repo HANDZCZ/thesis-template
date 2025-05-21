@@ -75,13 +75,13 @@ header-includes: |
         {\normalfont\normalsize\bfseries}
         {\theparagraph}
         {1em}
-        {}
+        {\phantomsection}
     \titlespacing*{\subparagraph}{0pt}{3.25ex plus 1ex minus .2ex}{1em}
     \titleformat{\subparagraph}[hang]
         {\normalfont\normalsize\bfseries}
         {\thesubparagraph}
         {1em}
-        {}
+        {\phantomsection}
     ```
 
 includes-before-document: |
