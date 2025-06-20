@@ -31,3 +31,9 @@ example usage - mount current directory and run conversion:
 $ docker run -it --rm -v "$(pwd):/home/user/thesis" handz/pandoc-toolkit:3.1.2 "./create_thesis.sh"
 ```
 
+## Example usages
+
+- [My bachelor's thesis](https://github.com/HANDZCZ/bc/tree/main/thesis) ([generated pdf](https://github.com/HANDZCZ/bc/releases/download/Done/thesis.pdf)) - most of the files for this template come from here (you can also find the [Dockerfile here](https://github.com/HANDZCZ/bc/blob/main/thesis/Dockerfile))
+- Applied Game Theory projects (not versioned and not available) - improved create_thesis.sh script and Makefile
+- [NoSQL project](https://gitlab.com/HANDZCZ/nosql/-/tree/main/thesis) ([generated pdf](https://gitlab.com/-/project/67153182/uploads/fd275fb43b3c98cc1405e30b439738f2/thesis.pdf)) - edited plot-config.yaml, updated pandoc-plot filter and fixed 4th and 5th level headings
+
