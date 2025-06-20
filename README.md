@@ -5,6 +5,10 @@ The template should comply with [UHK requirements](https://www.uhk.cz/cs/fakulta
 ([2023 version](https://www.uhk.cz/file/edee/fakulta-informatiky-a-managementu/uredni-deska/ridici-akty/vynosy-dekana/2023/metodicke-pokyny-pro-vypracovani-bakalarskych-a-diplomovych-praci.pdf))
 for bachelor's thesis.
 
+> Wayback Machine links:
+> [UHK requirements](https://web.archive.org/web/20250620220130/https://www.uhk.cz/cs/fakulta-informatiky-a-managementu/studium/statni-zaverecne-zkousky-a-kvalifikacni-prace/kvalifikacni-prace-bakalarska-diplomova)
+> ([2023 version](https://web.archive.org/web/20250620220404/https://www.uhk.cz/file/edee/fakulta-informatiky-a-managementu/uredni-deska/ridici-akty/vynosy-dekana/2023/metodicke-pokyny-pro-vypracovani-bakalarskych-a-diplomovych-praci.pdf))
+
 You can use these files for your own bachelor's thesis with some small or minimal changes.
 In the filters folder are some modified filters and some filters made by me.
 Chapters and pictures folder store all chapters and pictures respectively.
