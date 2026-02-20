@@ -164,6 +164,8 @@ figureTitle: Obrázek
 lotcolor: Black
 # Defaults to linkcolor
 lofcolor: Black
+# Defaults to linkcolor
+lolcolor: Black
 linestretch: 1.5
 ---
 \hyphenpenalty=10000
